@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567535088906",
+    "project_id": "armtest-ded79",
+    "storage_bucket": "armtest-ded79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567535088906:android:28bba7ae7f4c1893f876f3",
+        "android_client_info": {
+          "package_name": "com.armstest.arms_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567535088906-2gghu0b5s3k0a4r5m1jgre87uegqb9kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zQoDi229KmHDVaJCUDIK384-iOeraXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567535088906-2gghu0b5s3k0a4r5m1jgre87uegqb9kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
